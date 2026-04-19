@@ -8,6 +8,8 @@ The goal is to clean raw data, store it in a MySQL database, and perform analysi
 ---
 
 ## Project Structure
+
+```text
 retail-data-pipeline/
 │
 ├── data/
@@ -25,8 +27,9 @@ retail-data-pipeline/
 ├── pipeline.py
 ├── requirements.txt
 └── README.md
+```
 
----
+
 
 ## Workflow
 
